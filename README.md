@@ -4,6 +4,8 @@
 
 公開先：<https://shujiyoneda.github.io/Commutator-/>
 
+![サイトのプレビュー](docs/preview.jpg)
+
 ## 学習内容
 
 - 操作の順番による違い：`R U` と `U R`
