@@ -2,7 +2,27 @@
 
 ルービックキューブを一通り揃えられ、回転記号を読める人向けの日本語学習サイトです。交換子の意味を、正確な3Dキューブ、位置の模式図、54ステッカーの6面展開図で説明します。
 
-公開先：<https://shujiyoneda.github.io/Commutator-/>
+公開時のURL：<https://shujiyoneda.github.io/Commutator-/>
+
+## 最初の公開：設定を1回保存する
+
+サイト一式は **mainブランチのルート**に配置済みです。以下の設定を保存すると、GitHub Pagesで公開できます。
+
+1. [GitHub Pagesの設定画面を開く](https://github.com/shujiyoneda/Commutator-/settings/pages)。GitHubのログイン済みアカウントで開いてください。
+2. **Build and deployment** 内の **Source** を **Deploy from a branch** にします。
+3. **Branch** の左の選択欄で **main**、右のフォルダー選択欄で **/(root)** を選びます。
+4. **Save** をクリックします。
+5. 公開処理が完了したら、同じ画面の公開URLまたは **Visit site** を開きます。
+
+| 設定項目 | 選ぶ内容 |
+| --- | --- |
+| Source | Deploy from a branch |
+| Branch | main |
+| フォルダー | /(root) |
+
+公開URL：<https://shujiyoneda.github.io/Commutator-/>
+
+公開直後に404が表示される場合は、**Actions** タブで公開処理の完了を確認してから再読み込みしてください。以降はmainブランチのファイル更新で再公開されます。
 
 ![サイトのプレビュー](docs/preview.jpg)
 
